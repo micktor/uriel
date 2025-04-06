@@ -3,10 +3,10 @@ package repository
 import (
 	"context"
 	"fmt"
-	"github.com/christfirst/uriel/internal/config"
-	"github.com/christfirst/uriel/internal/ent"
-	"github.com/christfirst/uriel/internal/ent/migrate"
 	_ "github.com/go-sql-driver/mysql"
+	"github.com/your_org/uriel/internal/config"
+	"github.com/your_org/uriel/internal/ent"
+	"github.com/your_org/uriel/internal/ent/migrate"
 )
 
 func Connect(config *config.Config) *ent.Client {

@@ -1,8 +1,8 @@
 package cmd
 
 import (
-	"github.com/christfirst/uriel/internal/repository"
 	"github.com/spf13/cobra"
+	"github.com/your_org/uriel/internal/repository"
 )
 
 // migrateCmd represents the migrate command

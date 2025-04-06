@@ -5,8 +5,8 @@ package ent
 import (
 	"time"
 
-	"github.com/christfirst/uriel/internal/ent/schema"
-	"github.com/christfirst/uriel/internal/ent/user"
+	"github.com/your_org/uriel/internal/ent/schema"
+	"github.com/your_org/uriel/internal/ent/user"
 )
 
 // The init function reads all schema descriptors with runtime code

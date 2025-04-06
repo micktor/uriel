@@ -5,12 +5,12 @@ package enttest
 import (
 	"context"
 
-	"github.com/christfirst/uriel/internal/ent"
+	"github.com/your_org/uriel/internal/ent"
 	// required by schema hooks.
-	_ "github.com/christfirst/uriel/internal/ent/runtime"
+	_ "github.com/your_org/uriel/internal/ent/runtime"
 
 	"entgo.io/ent/dialect/sql/schema"
-	"github.com/christfirst/uriel/internal/ent/migrate"
+	"github.com/your_org/uriel/internal/ent/migrate"
 )
 
 type (

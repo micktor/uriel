@@ -2,10 +2,10 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/christfirst/uriel/internal/config"
 	"github.com/iamolegga/enviper"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
+	"github.com/your_org/uriel/internal/config"
 	"log/slog"
 	"os"
 )

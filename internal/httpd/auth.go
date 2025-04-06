@@ -2,8 +2,8 @@ package httpd
 
 import (
 	"encoding/json"
-	"github.com/christfirst/uriel/internal/dto"
-	"github.com/christfirst/uriel/internal/service"
+	"github.com/your_org/uriel/internal/dto"
+	"github.com/your_org/uriel/internal/service"
 	"net/http"
 	"time"
 )

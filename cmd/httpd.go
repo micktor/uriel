@@ -1,10 +1,10 @@
 package cmd
 
 import (
-	"github.com/christfirst/uriel/internal/httpd"
-	"github.com/christfirst/uriel/internal/repository"
-	"github.com/christfirst/uriel/internal/service"
 	"github.com/spf13/cobra"
+	"github.com/your_org/uriel/internal/httpd"
+	"github.com/your_org/uriel/internal/repository"
+	"github.com/your_org/uriel/internal/service"
 )
 
 // httpdCmd represents the httpd command

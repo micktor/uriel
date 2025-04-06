@@ -1,4 +1,4 @@
-module github.com/christfirst/uriel
+module github.com/your_org/uriel
 
 go 1.23.5
 

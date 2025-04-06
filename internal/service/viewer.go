@@ -2,7 +2,7 @@ package service
 
 import (
 	"context"
-	"github.com/christfirst/uriel/internal/dto"
+	"github.com/your_org/uriel/internal/dto"
 )
 
 func (s *Service) GetViewerData(ctx context.Context, userID string) (dto.ViewerResponse, error) {

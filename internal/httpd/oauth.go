@@ -3,7 +3,7 @@ package httpd
 import (
 	"context"
 	"encoding/json"
-	"github.com/christfirst/uriel/internal/dto"
+	"github.com/your_org/uriel/internal/dto"
 	"golang.org/x/oauth2"
 	"net/http"
 	"time"

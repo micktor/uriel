@@ -9,12 +9,12 @@ import (
 	"log"
 	"reflect"
 
-	"github.com/christfirst/uriel/internal/ent/migrate"
+	"github.com/your_org/uriel/internal/ent/migrate"
 
 	"entgo.io/ent"
 	"entgo.io/ent/dialect"
 	"entgo.io/ent/dialect/sql"
-	"github.com/christfirst/uriel/internal/ent/user"
+	"github.com/your_org/uriel/internal/ent/user"
 )
 
 // Client is the client that holds all ent builders.

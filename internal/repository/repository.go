@@ -2,8 +2,8 @@ package repository
 
 import (
 	"context"
-	"github.com/christfirst/uriel/internal/ent"
-	"github.com/christfirst/uriel/internal/ent/user"
+	"github.com/your_org/uriel/internal/ent"
+	"github.com/your_org/uriel/internal/ent/user"
 )
 
 type Repository struct {

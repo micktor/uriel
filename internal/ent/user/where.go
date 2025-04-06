@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"entgo.io/ent/dialect/sql"
-	"github.com/christfirst/uriel/internal/ent/predicate"
+	"github.com/your_org/uriel/internal/ent/predicate"
 )
 
 // ID filters vertices based on their ID field.

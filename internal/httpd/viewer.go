@@ -2,7 +2,7 @@ package httpd
 
 import (
 	"context"
-	"github.com/christfirst/uriel/internal/dto"
+	"github.com/your_org/uriel/internal/dto"
 )
 
 func (h *Handler) GetViewer(ctx context.Context) (dto.ViewerResponse, error) {

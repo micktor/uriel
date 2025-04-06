@@ -1,8 +1,8 @@
 package cmd
 
 import (
-	"github.com/christfirst/uriel/internal/job"
 	"github.com/spf13/cobra"
+	"github.com/your_org/uriel/internal/job"
 )
 
 // singCmd represents the migrate command

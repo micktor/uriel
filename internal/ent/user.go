@@ -9,7 +9,7 @@ import (
 
 	"entgo.io/ent"
 	"entgo.io/ent/dialect/sql"
-	"github.com/christfirst/uriel/internal/ent/user"
+	"github.com/your_org/uriel/internal/ent/user"
 )
 
 // User is the model entity for the User schema.

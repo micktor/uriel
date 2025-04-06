@@ -6,7 +6,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/christfirst/uriel/internal/ent"
+	"github.com/your_org/uriel/internal/ent"
 )
 
 // The UserFunc type is an adapter to allow the use of ordinary

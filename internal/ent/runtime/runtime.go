@@ -2,7 +2,7 @@
 
 package runtime
 
-// The schema-stitching logic is generated in github.com/christfirst/uriel/internal/ent/runtime.go
+// The schema-stitching logic is generated in github.com/your_org/uriel/internal/ent/runtime.go
 
 const (
 	Version = "v0.14.1"                                         // Version of ent codegen.

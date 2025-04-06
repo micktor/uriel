@@ -2,13 +2,13 @@ package httpd
 
 import (
 	"context"
-	"github.com/christfirst/uriel/internal/config"
-	"github.com/christfirst/uriel/internal/service"
 	"github.com/go-chi/chi/v5/middleware"
 	"github.com/go-chi/cors"
 	"github.com/go-chi/httplog/v2"
 	"github.com/go-chi/jwtauth/v5"
 	"github.com/lestrrat-go/jwx/v2/jwt"
+	"github.com/your_org/uriel/internal/config"
+	"github.com/your_org/uriel/internal/service"
 	"golang.org/x/oauth2"
 	"golang.org/x/oauth2/google"
 	"log/slog"

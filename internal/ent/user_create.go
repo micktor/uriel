@@ -10,7 +10,7 @@ import (
 
 	"entgo.io/ent/dialect/sql/sqlgraph"
 	"entgo.io/ent/schema/field"
-	"github.com/christfirst/uriel/internal/ent/user"
+	"github.com/your_org/uriel/internal/ent/user"
 )
 
 // UserCreate is the builder for creating a User entity.

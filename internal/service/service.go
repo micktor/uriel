@@ -1,11 +1,11 @@
 package service
 
 import (
-	"github.com/christfirst/uriel/internal/config"
-	"github.com/christfirst/uriel/internal/repository"
 	"github.com/go-chi/jwtauth/v5"
 	"github.com/lestrrat-go/jwx/v2/jwa"
 	"github.com/lestrrat-go/jwx/v2/jwt"
+	"github.com/your_org/uriel/internal/config"
+	"github.com/your_org/uriel/internal/repository"
 )
 
 type Service struct {

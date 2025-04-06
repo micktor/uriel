@@ -3,7 +3,7 @@ package httpd
 import (
 	"context"
 	"encoding/json"
-	"github.com/christfirst/uriel/internal/service"
+	"github.com/your_org/uriel/internal/service"
 	"net/http"
 	"net/url"
 )
