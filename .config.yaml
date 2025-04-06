@@ -1,0 +1,13 @@
+database:
+  hostname: localhost
+  port: 3306
+  username: root
+  password: testing123
+  database: uriel
+oauth:
+  clientID: 123456789-XXXXXXXXXX.apps.googleusercontent.com
+  clientSecret: ABCDEFG-mXXXXXXXXXXXXXXX
+httpserver:
+  port: 9999
+jwtSecret: secret
+fehost: http://localhost:5173
