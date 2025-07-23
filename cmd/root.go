@@ -76,6 +76,6 @@ func initConfig() {
 	}
 
 	if err := e.Unmarshal(&conf); err == nil {
-		slog.Info("config file unmarshalled", slog.String("config_file", viper.ConfigFileUsed()))
+		slog.Info("config file unmarshalled", slog.String("config_file", e.ConfigFileUsed()))
 	}
 }
