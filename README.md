@@ -1,6 +1,6 @@
 # **Uriel**
 
-Uriel is a Go-based application designed to provide a robust backend architecture with modular components. It leverages the Go `internal` package structure to encapsulate core functionalities
+A boilerplate for creating simple extensible backend services in Go
 
 This project uses an **Ent** (Entity Framework) for database interactions, **net/http** for HTTP routing, and provides functionality for user authentication, background jobs, and service-layer abstractions.
 
@@ -8,10 +8,9 @@ This project uses an **Ent** (Entity Framework) for database interactions, **net
 
 ## **Features**
 - User authentication and token-based authorization.
-- Structured, modular folder layout for scalability and maintainability.
 - Database ORM support with **Ent** for schema management and query building.
 - Background jobs and scheduled tasks.
-- Clean separation of HTTP handlers, services, and repositories.
+- Simple separation of HTTP handlers, services, and repositories.
 - Environment-specific configuration support.
 - Bruno `.bru` API testing integration.
 
