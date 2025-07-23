@@ -1,6 +1,6 @@
 module github.com/your_org/uriel
 
-go 1.23.5
+go 1.24.3
 
 require (
 	entgo.io/ent v0.14.1
