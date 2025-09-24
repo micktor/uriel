@@ -8,8 +8,8 @@ import (
 // singCmd represents the migrate command
 var singCmd = &cobra.Command{
 	Use:   "sing",
-	Short: "sing praise",
-	Long:  `shout to the lord`,
+	Short: "sing junior h",
+	Long:  `sing a song by the artist junior h`,
 	Run:   singJob,
 }
 
